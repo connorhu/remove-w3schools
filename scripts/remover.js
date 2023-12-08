@@ -3,7 +3,7 @@
         currentUrl: {}, 
         constants: {
             queries: {
-                result_links: '.g > a[href*="www.w3schools.com"]', 
+                result_links: '.g a[href*="www.w3schools.com"]', 
                 link_parent_node: 'div.g', 
                 main_google_node: 'main'
             }, 
