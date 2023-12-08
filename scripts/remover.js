@@ -3,8 +3,8 @@
         currentUrl: {}, 
         constants: {
             queries: {
-                result_links: '.g div > a[href*="www.w3schools.com"]', 
-                link_parent_node: '#rso div.g', 
+                result_links: '.g > a[href*="www.w3schools.com"]', 
+                link_parent_node: 'div.g', 
                 main_google_node: 'main'
             }, 
             events: {
